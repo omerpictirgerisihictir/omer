@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}p{
+    color: white;
+}button{
+    color: white;
+    margin: 13px;
+    background-color: rgb(56, 13, 13);
+    border: 3px dashed red;
+}
+.ifsa{
+    width: 800px;
+    height: 400px;
+    border: 3px dotted red;
+}
